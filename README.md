@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/mhankbarbar"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zekstorm"><img title="Author" src="https://img.shields.io/badge/Author-mhankbarbar-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/mhankbarbar/followers"><img title="Followers" src="https://img.shields.io/github/followers/mhankbarbar?color=blue&style=flat-square"></a>
@@ -17,7 +17,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/MhankBarBar/whatsapp-bot
+> git clone https://github.com/zekstorm/whatsapp-bot.git
 ```
 
 ## Install the dependencies:
@@ -30,7 +30,7 @@ you've just cloned!!
 ```
 
 ### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
+Before running this script, first edit [this section](https://github.com/zekstorm/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
 > npm start
 ```
